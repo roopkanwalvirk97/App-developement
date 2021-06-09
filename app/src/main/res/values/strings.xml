@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment1_2</string>
+    <string name="user">USER</string>
+    <string name="lower">lOWER</string>
+    <string name="higher">HIGHER</string>
+    <string name="computer">COMPUTER</string>
+</resources>
